@@ -51,7 +51,6 @@ public class KMinMax
     {
         int arr[]={3,4,1,2,6,5};
         int size= 6;
-        int k;
         getMax(arr, size, 3);
         getMin(arr, size, 2);
     }
